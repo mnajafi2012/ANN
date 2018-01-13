@@ -1,0 +1,37 @@
+deal_size continuous
+deal_size_log continuous
+scheduled_activities continuous
+scheduled_activities_per_mo continuous
+buyer_to_deal_size continuous
+communicating_buyers_to_deal_size continuous
+max_persona continuous
+estimated_stage continuous
+demonstration continuous
+discussion continuous
+negotiation continuous
+contract continuous
+buyer_initiated_chains_rate continuous
+weighted_buyer_initiated_chains_rate continuous
+average_email_chain_speed continuous
+latest_email_chain_speed continuous
+last_to_average_chain_speed continuous
+buyer_count continuous
+buyer_per_mo continuous
+effective_buyer_count continuous
+effective_buyer_per_mo continuous
+communicating_buyer_count continuous
+communicating_buyer_per_mo continuous
+buyer_email_count continuous
+buyer_email_count_per_mo continuous
+seller_email_count continuous
+buyer_response_rate continuous
+revenue_in_million continuous
+persona_times_revenue continuous
+stage_score continuous
+buyer_question_count continuous
+buyer_question_count_per_mo continuous
+age continuous
+status continuous
+
+target 1 -1
+
